@@ -4,7 +4,7 @@
   "description": "This product is based on Node.JS, MySQL",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    
   },
   "author": "Surya Prakash Chaudhary",
   "license": "ISC",
